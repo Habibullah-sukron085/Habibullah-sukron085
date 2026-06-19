@@ -55,18 +55,37 @@
 
 ---
 
-### 📊 GitHub Engineering Metrics
+---
+
+### 📊 System Analytics (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibullah-sukron085&show_icons=true&theme=radical&rank_icon=github" height="180px" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibullah-sukron085&theme=radical" height="180px" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habibullah-sukron085&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180px" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibullah-sukron085&theme=tokyonight&border_radius=10" height="180px" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibullah-sukron085&layout=compact&theme=radical&langs_count=6" height="165px" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibullah-sukron085&layout=compact&theme=tokyonight&border_radius=10" height="150px" alt="Top Langs" />
 </p>
 
 ---
+
+### 📈 Neural Matrix (Contribution Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibullah-sukron085&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 💬 Kernel Quotes
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/habibullah-sukron085/count.svg" alt="Visitor Counter" /> 🚀 Telemetry pings
+</p>
+
 
 ### 📈 Coding Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=habibullah-sukron085&theme=react-dark)
