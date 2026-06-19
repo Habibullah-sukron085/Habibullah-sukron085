@@ -59,31 +59,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibullah-sukron085&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </p>
-
----
-
-### 💬 Kernel Quotes
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/habibullah-sukron085/count.svg" alt="Visitor Counter" /> 🚀 Telemetry pings
-</p>
-
-
-### 📈 Coding Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=habibullah-sukron085&theme=react-dark)
-
----
-
-### 💬 Random Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quotes" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/habibullah-sukron085/count.svg" alt="Visitor Counter" /> 👀 views
-</p>
